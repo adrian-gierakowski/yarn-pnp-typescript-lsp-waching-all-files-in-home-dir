@@ -1,0 +1,15 @@
+{
+  "name": "yarn-pnp-typescript-lsp-waching-all-files-in-home-dir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adrian-gierakowski/yarn-pnp-typescript-lsp-waching-all-files-in-home-dir.git",
+  "author": "Adrian Gierakowski <agierakowski@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@4.0.2",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "5.3.3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "one",
+  "packageManager": "yarn@4.0.2",
+  "devDependencies": {
+    "typescript": "5.3.3"
+  },
+  "main": "dist/index.js",
+  "dependencies": {
+    "two": "workspace:^"
+  }
+}

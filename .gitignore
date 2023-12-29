@@ -1,0 +1,6 @@
+.direnv
+.yarn/install-state.gz
+.yarn/cache
+.pnp.cjs
+dist
+node_modules/
